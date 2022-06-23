@@ -1,0 +1,3 @@
+
+! genrev Metal_Grey tube1row0 t*0.9 0.06 32 | xform -t 1.436 0 0
+! genrev Metal_Grey tube2row0 t*0.9 0.06 32 | xform -t 0.0 0 0

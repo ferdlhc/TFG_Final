@@ -1,0 +1,2 @@
+!xform -rx 23.778249999999996 -t 0 0 0.9 -a 6 -t 2.474 0 0 -a 3 -t 0 2.1 0 -i 1 -t -4.948 -2.1 0 -rz 180 -t 0 0 0 objects\real_tracker_v1.rad
+!xform -rz 0 objects\Columns.rad

@@ -1,0 +1,2 @@
+! genbox black real_tracker_v2 1.038 2.094 0.04 | xform -t -0.519 -2.194 0.06 -a 2 -t 0 2.294 0
+! genbox Metal_Grey tube1 1.436 0.12 0.12 | xform -t -0.718 -0.06 -0.06

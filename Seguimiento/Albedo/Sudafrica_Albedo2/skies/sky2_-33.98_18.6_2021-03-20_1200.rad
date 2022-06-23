@@ -1,0 +1,36 @@
+# start of sky definition for daylighting studies
+# location name: CAPE TOWN LAT: -33.98 LON: 18.6 Elev: 42.0
+# Sun position calculated w. PVLib
+!gendaylit -ang 50.84092473191319 -145.85216616224216 -W 854 125 -g 0.25 -O 1 
+skyfunc glow sky_mat
+0
+0
+4 1 1 1 0
+
+sky_mat source sky
+0
+0
+4 0 0 1 180
+
+skyfunc glow ground_glow
+0
+0
+4 0.9966115208291809 0.9966115208291809 0.9966115208291809 0
+
+ground_glow source ground
+0
+0
+4 0 0 -1 180
+
+void plastic custom
+0
+0
+5 0.250 0.250 0.250 0 0
+
+custom ring groundplane
+0
+0
+8
+0 0 -.01
+0 0 1
+0 100

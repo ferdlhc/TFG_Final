@@ -1,0 +1,36 @@
+# start of sky definition for daylighting studies
+# location name: Toledo LAT: 39.88 LON: -4.05 Elev: 529.0
+# Sun position calculated w. PVLib
+!gendaylit -ang 42.46403673205999 -40.158269327983135 -W 529 182 -g 0.65 -O 1 
+skyfunc glow sky_mat
+0
+0
+4 1 1 1 0
+
+sky_mat source sky
+0
+0
+4 0 0 1 180
+
+skyfunc glow ground_glow
+0
+0
+4 0.9966115208291809 0.9966115208291809 0.9966115208291809 0
+
+ground_glow source ground
+0
+0
+4 0 0 -1 180
+
+void plastic custom
+0
+0
+5 0.650 0.650 0.650 0 0
+
+custom ring groundplane
+0
+0
+8
+0 0 -.01
+0 0 1
+0 100

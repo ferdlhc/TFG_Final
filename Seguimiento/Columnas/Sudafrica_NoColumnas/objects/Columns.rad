@@ -1,0 +1,22 @@
+
+! genrev Metal_Grey tube1row0 t*0.9 0.06 32 | xform -t 0 5.502000000000001 0
+! genrev Metal_Grey tube1row-1 t*0.9 0.06 32 | xform -t 6.2 5.502000000000001 0
+! genrev Metal_Grey tube1row1 t*0.9 0.06 32 | xform -t -6.2 5.502000000000001 0
+! genrev Metal_Grey tube2row0 t*0.9 0.06 32 | xform -t 0 3.9300000000000006 0
+! genrev Metal_Grey tube2row-1 t*0.9 0.06 32 | xform -t 6.2 3.9300000000000006 0
+! genrev Metal_Grey tube2row1 t*0.9 0.06 32 | xform -t -6.2 3.9300000000000006 0
+! genrev Metal_Grey tube3row0 t*0.9 0.06 32 | xform -t 0 2.358 0
+! genrev Metal_Grey tube3row-1 t*0.9 0.06 32 | xform -t 6.2 2.358 0
+! genrev Metal_Grey tube3row1 t*0.9 0.06 32 | xform -t -6.2 2.358 0
+! genrev Metal_Grey tube4row0 t*0.9 0.06 32 | xform -t 0 0.7859999999999996 0
+! genrev Metal_Grey tube4row-1 t*0.9 0.06 32 | xform -t 6.2 0.7859999999999996 0
+! genrev Metal_Grey tube4row1 t*0.9 0.06 32 | xform -t -6.2 0.7859999999999996 0
+! genrev Metal_Grey tube5row0 t*0.9 0.06 32 | xform -t 0 -0.7860000000000005 0
+! genrev Metal_Grey tube5row-1 t*0.9 0.06 32 | xform -t 6.2 -0.7860000000000005 0
+! genrev Metal_Grey tube5row1 t*0.9 0.06 32 | xform -t -6.2 -0.7860000000000005 0
+! genrev Metal_Grey tube6row0 t*0.9 0.06 32 | xform -t 0 -2.3580000000000005 0
+! genrev Metal_Grey tube6row-1 t*0.9 0.06 32 | xform -t 6.2 -2.3580000000000005 0
+! genrev Metal_Grey tube6row1 t*0.9 0.06 32 | xform -t -6.2 -2.3580000000000005 0
+! genrev Metal_Grey tube7row0 t*0.9 0.06 32 | xform -t 0 -3.9300000000000015 0
+! genrev Metal_Grey tube7row-1 t*0.9 0.06 32 | xform -t 6.2 -3.9300000000000015 0
+! genrev Metal_Grey tube7row1 t*0.9 0.06 32 | xform -t -6.2 -3.9300000000000015 0

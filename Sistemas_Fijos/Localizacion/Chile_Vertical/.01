@@ -1,0 +1,13 @@
+**************
+*** PID  8564: rvu -vf views\front.vp -e .01 -pe 0.3 -vp 1 -7.5 12 Tracker_1_4.oct
+
+rvu: system - cannot open octree file "Tracker_1_4.oct": No such file or directory
+**************
+*** PID 20936: rvu -vf views\front.vp -e .01 -pe 0.3 -vp 1 -7.5 12 Chile_Vertical_5.oct
+
+**************
+*** PID  7008: rvu -vf views\front.vp -e .01 -pe 0.3 -vp 1 -7.5 12 Chile_Vertical_3.oct
+
+**************
+*** PID  4856: rvu -vf views\front.vp -e .01 -pe 0.3 -vp 1 -7.5 12 Chile_Vertical_12.oct
+

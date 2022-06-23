@@ -1,0 +1,21 @@
+**************
+*** PID 20704: rvu -vf views\front.vp -e .01 -pe 0.3 -vp 1 -7.5 12 Sudafrica_Pitch_3.oct
+
+rvu: system - cannot open octree file "Sudafrica_Pitch_3.oct": No such file or directory
+**************
+*** PID 14592: rvu -vf views\front.vp -e .01 -pe 0.3 -vp 1 -7.5 12 Sudafrica_Pitch1_3.oct
+
+rvu: system - cannot open octree file "Sudafrica_Pitch1_3.oct": No such file or directory
+**************
+*** PID  6568: rvu -vf views\front.vp -e .01 -pe 0.3 -vp 1 -7.5 12 1axis_2021-03-20_1100.oct
+
+**************
+*** PID 14908: rvu -vf views\front.vp -e .01 -pe 0.3 -vp 1 -7.5 12 1axis_2021-03-20_0900.oct
+
+**************
+*** PID 21368: rvu -vf views\front.vp -e .01 -pe 0.3 -vp 1 -7.5 12 1axis_2021-03-20_0700.oct
+
+rvu: warning - no light sources found
+**************
+*** PID 13232: rvu -vf views\front.vp -e .01 -pe 0.3 -vp 1 -7.5 12 1axis_2021-03-20_0800.oct
+

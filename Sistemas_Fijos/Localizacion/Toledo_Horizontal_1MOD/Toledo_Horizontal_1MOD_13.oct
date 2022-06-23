@@ -1,0 +1,4 @@
+#?RADIANCE
+oconv materials\ground.rad skies\sky2_39.88_-4.05_2021-03-21_2000.rad objects\real_tracker_v1_13_C_0.90000_rtr_6.20000_tilt_0.00000_1modsx1rows_origin0,0.rad
+FORMAT=Radiance_octree
+

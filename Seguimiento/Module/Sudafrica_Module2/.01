@@ -1,0 +1,13 @@
+**************
+*** PID 20428: rvu -vf views\front.vp -e .01 -pe 0.3 -vp 1 -7.5 12 1axis_2021-03-20_1000.oct
+
+**************
+*** PID 13716: rvu -vf views\front.vp -e .01 -pe 0.3 -vp 1 -7.5 12 1axis_2021-03-20_1300.oct
+
+**************
+*** PID 14748: rvu -vf views\front.vp -e .01 -pe 0.3 -vp 1 -7.5 12 1axis_2021-03-20_1000.oct
+
+**************
+*** PID 22080: rvu -vf views\front.vp -e .01 -pe 0.3 -vp 1 -7.5 12 1axis_2021-03-20_0900.oct
+
+QObject::~QObject: Timers cannot be stopped from another thread

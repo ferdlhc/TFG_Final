@@ -1,0 +1,7 @@
+**************
+*** PID  9652: rvu -vf views\front.vp -e .01 -pe 0.3 -vp 1 -7.5 12 Created 1axis_2021-03-20_0800.oct
+
+rvu: fatal - command line error at 'Created'
+**************
+*** PID 13068: rvu -vf views\front.vp -e .01 -pe 0.3 -vp 1 -7.5 12 1axis_2021-03-20_0800.oct
+
